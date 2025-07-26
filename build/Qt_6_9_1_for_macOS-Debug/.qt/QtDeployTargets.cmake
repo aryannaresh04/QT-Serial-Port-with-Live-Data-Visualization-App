@@ -1,2 +1,0 @@
-set(__QT_DEPLOY_TARGET_SerialPortChartApp_FILE /Users/Aryan/QT Creator Files/SerialPortChartApp/build/Qt_6_9_1_for_macOS-Debug/SerialPortChartApp.app/Contents/MacOS/SerialPortChartApp)
-set(__QT_DEPLOY_TARGET_SerialPortChartApp_TYPE EXECUTABLE)
