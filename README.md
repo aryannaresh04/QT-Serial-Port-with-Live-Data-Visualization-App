@@ -34,7 +34,7 @@ Example screenshots from the application:
 
 | Data Transfer via socat | Real-Time Chart View |
 |-------------------------|----------------------|
-| ![Socat Screenshot](screenshots/socat.png) | ![Chart Screenshot](screenshots/chartview.png) |
+| ![Socat Setup](images/socat-terminal.png) | ![Live Chart](images/live-chart.png) |
 
 
 ## How to Use
