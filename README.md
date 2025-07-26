@@ -36,7 +36,6 @@ Example screenshots from the application:
 |-------------------------|----------------------|
 | ![Socat Screenshot](screenshots/socat.png) | ![Chart Screenshot](screenshots/chartview.png) |
 
-*(Replace with actual image paths in your repo)*
 
 ## How to Use
 
