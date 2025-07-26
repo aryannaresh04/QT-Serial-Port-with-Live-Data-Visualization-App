@@ -37,6 +37,10 @@ Example screenshots from the application:
 | ![Socat Setup](images/socat-terminal.png) | ![Live Chart](images/live-chart.png) |
 
 
+## Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/5VNhxtIcaBo/0.jpg)](https://www.youtube.com/watch?v=5VNhxtIcaBo)
+
 ## How to Use
 
 ### Prerequisites
